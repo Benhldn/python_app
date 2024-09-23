@@ -1,5 +1,5 @@
 from waitress import serve
-from . import create_app
+from src import create_app
 
 app=create_app()
 
