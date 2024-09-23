@@ -12,3 +12,8 @@ Eveidnece of this can be found in task 1 of the assignement doc.
 Unit tests have been written and if you wish to run them, paste:
 python -m unittest discover
 
+# Running as admin:
+If you would like to login as admin to test the delete feature, the credentials are:
+
+Email: admin@email.com
+Password: Admin
