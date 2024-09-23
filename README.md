@@ -1,7 +1,7 @@
 ## Ticket Management System
 ## The reason for the project:
 
-This is a ticket management tool for a university course where students should be able to create and edit tickets however only admin (lecturers) can reslove tickets after they review it. 
+This is a ticket management tool for a university course where students should be able to create and edit tickets however only admin (lecturers) can reslove tickets after they review it. Admins need to be created and defined outside of the application as there is no way currently to upgrade a user from regular user to admin.
 
 
 
