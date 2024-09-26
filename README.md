@@ -13,8 +13,8 @@ This is a ticket management tool for a university course where students should b
 3.  { flask run }
 
 # Testing
-I have maunal tested my application.
-Eveidnece of this can be found in task 1 of the assignement doc.
+I have manual tested my application.
+Evidence of this can be found in task 1 of the assignment doc.
 
 Unit tests have been written and if you wish to run them, paste:
 python -m unittest discover
